@@ -1,0 +1,22 @@
+App_MCVill
+
+Indicaciones de uso de la aplicación
+
+Los botones Empleados y Fechas son las tablas creadas de la base de datos, ambas tienen por conexion la variable ID Empleado
+
+
+El boton de Buscar hace busqueda general solo presionando el boton de Bucar este mostrara todos los datos pero si ingresa
+un ID Empleado este buscara solo ese registro
+
+Para Insertar, Modificar o Eliminar primero se tendria que hacer la conexion a la base de datos con el boton Conectar 
+para despues poner los datos del registro que desee Inserar, Modificar o Eliminar
+
+
+
+
+
+
+
+
+
+Ayram Domonycke Ochoa Hernandez
